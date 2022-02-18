@@ -1,5 +1,5 @@
 # Task
-# Given an integer, n , print its first 10 multiples. 
+# Given an integer n, print its first 10 multiples. 
 import math
 import os
 import random
